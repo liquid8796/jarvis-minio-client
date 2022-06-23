@@ -1,0 +1,8 @@
+{
+  "name": "jarvis-minio-client",
+  "description": "deploy minio-client to Heroku.",
+  "keywords": ["minio-client"],
+  "website": "https://github.com/liquid8796/jarvis-minio-client",
+  "repository": "https://github.com/liquid8796/jarvis-minio-client",
+  "stack": "container"
+ }
